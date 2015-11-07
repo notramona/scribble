@@ -13,7 +13,7 @@ links:
     url:          http://edificeref.info
     external:     true
   - name:         GitHub
-    url:          http://github.com/notramona
+    url:          http://notramona.github.io
     external:     true
 highlighter:      pygments
 permalink:        pretty
